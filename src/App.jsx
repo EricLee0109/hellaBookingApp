@@ -1,8 +1,8 @@
 import UserProfile from "./One/UserProfile";
 import Collections from "./Three/Collections";
 import JobList from "./Two/JobList";
-import Header from "./landingPage/header/header";
-import Search from "./landingPage/header/search";
+import Header from "./landingPage/header/Header";
+import Search from "./landingPage/header/Search";
 
 function App() {
   return (
